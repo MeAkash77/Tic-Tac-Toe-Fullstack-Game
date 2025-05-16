@@ -195,12 +195,6 @@ The game page also enables users to play against other players online in real-ti
 
 > Our apologies for the low quality of the GIF. Please visit the live app to experience the real-time online gameplay! 🎮
 
-**Pre-Matchmaking**
-
-<p align="center">
-  <img src="images/pre-matchmaking.png" alt="Online Player vs. Player Mode" width="100%" style="border-radius: 8px">
-</p>
-
 **Matchmaking Success (Found Opponent)**
 
 <p align="center">
