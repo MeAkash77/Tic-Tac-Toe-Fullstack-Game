@@ -279,22 +279,6 @@ The login page allows users to sign in with their email and password, with optio
   <img src="images/login-dark.png" alt="Login Page (Dark Mode)" width="100%" style="border-radius: 8px">
 </p>
 
-### Registration Page
-
-The registration page enables new users to create an account with their email, username, and password.
-
-#### Light Mode
-
-<p align="center">
-  <img src="images/register.png" alt="Registration Page" width="100%" style="border-radius: 8px">
-</p>
-
-#### Dark Mode
-
-<p align="center">
-  <img src="images/register-dark.png" alt="Registration Page (Dark Mode)" width="100%" style="border-radius: 8px">
-</p>
-
 ### Responsive Design
 
 #### Mobile View
