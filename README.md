@@ -201,12 +201,6 @@ The game page also enables users to play against other players online in real-ti
   <img src="images/pre-matchmaking.png" alt="Online Player vs. Player Mode" width="100%" style="border-radius: 8px">
 </p>
 
-**Matchmaking in Progress (Finding Opponent)**
-
-<p align="center">
-  <img src="images/matchmaking-in-progress.png" alt="Online Player vs. Player Mode" width="100%" style="border-radius: 8px">
-</p>
-
 **Matchmaking Success (Found Opponent)**
 
 <p align="center">
