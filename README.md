@@ -34,10 +34,9 @@ The app integrates a robust backend API with a dynamic frontend, providing real-
 
 The Tic Tac Toe Pro Game is live and accessible at the following URLs:
 
-- **Frontend**: [Tic Tac Toe Pro Game](https://tictactoe-ai-app.vercel.app/)
-- **Backend**: [Tic Tac Toe Pro API](https://tic-tac-toe-fullstack-game.onrender.com/)
-- **Backup**: [Netlify Deployment](https://tictactoe-ai-game.netlify.app)
-
+- **Frontend**: [Tic Tac Toe Pro Game](https://tic-tac-toe-fullstack-game.vercel.app/)
+- **Backend**: [Tic Tac Toe Pro API](https://tic-tac-toe-fullstack-game.vercel.app/)
+  
 Feel free to explore the app, play a few games, and check out the leaderboard!
 
 > **Note**: The app's backend is hosted on Render's free tier, which may experience cold start delays. It may take up to 2 seconds to process backend requests, such as login, registration, online PvP, and/or leaderboard functionalities. Please be patient if you encounter any initial delays.
