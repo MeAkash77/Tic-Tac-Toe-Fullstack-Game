@@ -548,7 +548,7 @@ This guide enables you to view, test, and utilize the API. Feel free to explore 
 
 1. Clone the repository and navigate to the backend folder:
    ```bash
-   git clone https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game.git
+   git clone https://github.com/MeAkash77/Tic-Tac-Toe-Fullstack-Game.git
    cd Tic-Tac-Toe-Fullstack-Game/backend
    ```
 2. Install dependencies:
@@ -585,8 +585,6 @@ This guide enables you to view, test, and utilize the API. Feel free to explore 
 - Frontend: `http://localhost:3000`
 - Backend API: `http://localhost:4000`
 - Swagger UI: `http://localhost:4000/api-docs`
-- Live: `https://tictactoe-ai-app.vercel.app/`
-- Live API: `https://tic-tac-toe-fullstack-game.onrender.com/`
 
 ## **Containerization**
 
@@ -615,19 +613,3 @@ The **Tic Tac Toe Pro Game** can be containerized using Docker for easy deployme
    ```bash
    git push origin feature/your-feature
    ```
-5. Submit a pull request.
-
-## **License**
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-## **Author**
-
-- **[Son Nguyen](https://github.com/hoangsonww)**
-- Feel free to reach out with any questions or suggestions.
-
----
-
-**Created in 2024 with ❤️ by [Son Nguyen](https://github.com/hoangsonww)**
-
-[🔝 Back to Top](#docuthinker---ai-powered-document-analysis-and-summarization-app)
