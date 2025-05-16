@@ -257,22 +257,6 @@ The profile page also features a search bar to find other users by their usernam
   <img src="images/profile-search.png" alt="Profile Search" width="100%" style="border-radius: 8px">
 </p>
 
-### Login Page
-
-The login page allows users to sign in with their email and password, with options for password recovery and new user registration.
-
-#### Light Mode
-
-<p align="center">
-  <img src="images/login.png" alt="Login Page" width="100%" style="border-radius: 8px">
-</p>
-
-#### Dark Mode
-
-<p align="center">
-  <img src="images/login-dark.png" alt="Login Page (Dark Mode)" width="100%" style="border-radius: 8px">
-</p>
-
 ### Responsive Design
 
 #### Mobile View
