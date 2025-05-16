@@ -295,22 +295,6 @@ The registration page enables new users to create an account with their email, u
   <img src="images/register-dark.png" alt="Registration Page (Dark Mode)" width="100%" style="border-radius: 8px">
 </p>
 
-### Forgot Password Page
-
-The forgot password page allows users to recover their account by verifying their email address.
-
-#### Light Mode
-
-<p align="center">
-  <img src="images/forgot-password.png" alt="Forgot Password Page" width="100%" style="border-radius: 8px">
-</p>
-
-#### Dark Mode
-
-<p align="center">
-  <img src="images/forgot-password-dark.png" alt="Forgot Password Page (Dark Mode)" width="100%" style="border-radius: 8px">
-</p>
-
 ### Responsive Design
 
 #### Mobile View
